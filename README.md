@@ -1,4 +1,4 @@
-# Average Precision Based on Hybrid N-point Interpolation for KITTI 3D Object Detection
+# Enhanced N-Point Interpolation Method for Average Precision Calculation
 
 <div align="left">
   <img src="resource/litis_100.png" height="50"/>
@@ -7,6 +7,9 @@
 
 STI Team, LITIS LAB, INSA ROUEN. 10/04/2021
 
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S016786552200126X)
+
+Zhang, Haodi, Alexandrina Rogozan, and Abdelaziz Bensrhair. "An enhanced N-point interpolation method to eliminate average precision distortion." Pattern Recognition Letters 158 (2022): 111-116.
 ---
 
 ## 1. Purpose
